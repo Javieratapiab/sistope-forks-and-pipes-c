@@ -1,7 +1,7 @@
 # Manual de uso de laboratorio
 
-Autora: Javiera Tapia Bobadilla
-Asignatura: Sistemas Operativos
+>> Autora: Javiera Tapia Bobadilla
+>> Asignatura: Sistemas Operativos
 
 ## Comandos
 
