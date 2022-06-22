@@ -76,7 +76,7 @@ void creadorProcesos(Visibilidad *visibilidades, Disco *discos, int numeroDiscos
     // Cierra pipes
     close(pipes[i][ESCRITURA]);
     close(pipes[i][LECTURA]);
-    // Mata proceso hijo creados
+    // Mata procesos hijos creados
     kill(pids[i], SIGKILL);
   }
 

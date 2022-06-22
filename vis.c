@@ -8,8 +8,8 @@
 #include "./disco.h"
 
 /**
- * @brief Función principal que se ejecutará por los hijos
- * @param[in] visibilidad Visibilidad
+ * @brief Función principal que se ejecutará por procesos hijos
+ *        creados en reader.c
  */
 int main(int argc, char *argv[]) {
   int i;
